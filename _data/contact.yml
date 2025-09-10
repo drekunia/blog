@@ -1,27 +1,53 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+- type: instagram
+  icon: "fa-brands fa-instagram"
+  url: 'https://www.instagram.com/drekunia/'                  # Fill with your Instagram homepage
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+
+- type: youtube
+  icon: 'fa-brands fa-youtube'
+  url: 'https://www.youtube.com/@drekunia'                  # Fill with your Youtube channel link
+
+- type: facebook
+  icon: 'fa-brands fa-facebook'
+  url: 'https://www.facebook.com/drekunia/'                  # Fill with your Facebook homepage
+
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/drekunia/'                  # Fill with your Linkedin homepage
+
+- type: github
+  icon: "fab fa-github"
+
+- type: itch.io
+  icon: 'fa-brands fa-itch-io'
+  url: 'https://drekunia.itch.io/'                  # Fill with your Itch.io homepage
+
+- type: artstation
+  icon: 'fa-brands fa-artstation'
+  url: 'https://www.artstation.com/drekunia'                  # Fill with your ArtStation homepage
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: website
+  icon: "fas fa-globe"
+  url: 'https://drekunia.github.io'                  # Fill with your personal website homepage
+  noblank: true # open link in current tab
+
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
