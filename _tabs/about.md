@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 > For more detailed resume-oriented (and corpo-ish) info, here's my [LinkedIn profile](https://www.linkedin.com/in/drekunia).
