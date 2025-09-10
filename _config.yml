@@ -123,13 +123,13 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: drekunia/blog # <gh-username>/<repo>
+    repo_id: R_kgDOPtQ05w
+    category: giscus
+    category_id: DIC_kwDOPtQ0584CvQkS
     mapping: # optional, default to 'pathname'
-    strict: # optional, default to '0'
-    input_position: # optional, default to 'bottom'
+    strict: 1 # optional, default to '0'
+    input_position: top # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
