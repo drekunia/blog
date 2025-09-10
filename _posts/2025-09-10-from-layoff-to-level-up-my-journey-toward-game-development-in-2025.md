@@ -6,7 +6,7 @@ categories: [Game Dev]
 tags: [IT, Jobs, Game Dev, Software Engineering,]
 description: "After getting laid off from my software engineering job in 2025, I decided to chase a long-time dream: breaking into the game industry. Here’s my journey so far—the challenges, the lessons, and the spark that keeps me going."
 image:
-  path: /assets/img/posts/from_layoff_to_level_up_my_journey_toward_game_development_in_2025.webp
+  path: /assets/img/posts/2025-09-10-from-layoff-to-level-up-my-journey-toward-game-development-in-2025.webp
   alt: My first Blender donut
 ---
 
