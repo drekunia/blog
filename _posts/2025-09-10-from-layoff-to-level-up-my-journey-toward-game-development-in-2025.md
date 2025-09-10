@@ -10,7 +10,7 @@ image:
   alt: My first Blender donut
 ---
 
-Earlier this year, I got laid off from my software engineering job.
+Last year I got laid off from my software engineering job.
 
 Not gonna lie—it stung. I’d spent years building backend systems, writing clean code, and working on scalable architectures. Suddenly, all of that stability was gone.
 
