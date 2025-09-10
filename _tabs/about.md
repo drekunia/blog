@@ -7,7 +7,7 @@ order: 4
 > For more detailed resume-oriented (and corpo-ish) info, here's my [LinkedIn profile](https://www.linkedin.com/in/drekunia).
 {: .prompt-info }
 
-I'm a game developer and 3D artist with extensive experience in backend engineering. I do some music and 2D arts too, and other bunch of kinda technical random stuff, like playing with electronics. I write or make yapping videos when I have the inspiration and spare energy to spend ~~or I'll just take naps, or doze off, or do some random thing~~.
+I'm a **game developer** and **3D artist** with extensive experience in backend engineering. I do some music and 2D arts too, and other bunch of kinda technical random stuff, like playing with electronics. I write or make yapping videos when I have the inspiration and spare energy to spend ~~or I'll just take naps, or doze off, or do some random thing~~.
 
 You can see some of my works here:
 
