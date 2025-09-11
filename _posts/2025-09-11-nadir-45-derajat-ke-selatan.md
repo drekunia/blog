@@ -2,8 +2,8 @@
 layout: post
 title: Nadir 45 Derajat ke Selatan
 date: 2025-09-11 18:32 +0700
-categories: [Writing, Short Story]
-tags: [Short Story]
+categories: [Writing, Short Stories]
+tags: [fiction, absurd, dark humor]
 image: /assets/img/posts/2025-09-11-nadir-45-derajat-ke-selatan.webp
 ---
 

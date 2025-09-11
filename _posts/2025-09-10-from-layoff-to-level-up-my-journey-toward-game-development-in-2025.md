@@ -2,8 +2,8 @@
 layout: post
 title: 'From Layoff to Level Up: My Journey Toward Game Development in 2025'
 date: 2025-09-10 23:57 +0700
-categories: [Game Dev]
-tags: [IT, Jobs, Game Dev, Software Engineering,]
+categories: [Game Dev, Career]
+tags: [jobs, game industry]
 description: "After getting laid off from my software engineering job in 2025, I decided to chase a long-time dream: breaking into the game industry. Here’s my journey so far—the challenges, the lessons, and the spark that keeps me going."
 image:
   path: /assets/img/posts/2025-09-10-from-layoff-to-level-up-my-journey-toward-game-development-in-2025.webp
