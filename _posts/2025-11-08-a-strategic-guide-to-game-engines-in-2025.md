@@ -5,6 +5,7 @@ date: 2025-11-08 19:14 +0700
 categories: [Game Development]
 tags: [game engines, unreal engine, godot, monogame, unity]
 description: "A strategic guide to choosing a game engine in 2025 and analyzing the business risks associated with each."
+image: /assets/img/posts/2025-11-08-a-strategic-guide-to-game-engines-in-2025.jpg
 ---
 
 ## Why Your Engine Choice is a Business Plan, Not Just a Tool
