@@ -2,7 +2,7 @@
 layout: post
 title: 'A Strategic Guide to Game Engines in 2026'
 date: 2025-11-08 19:14 +0700
-categories: [Game Development]
+categories: [Game Development, Tech]
 tags: [game engines, unreal engine, godot, monogame, unity]
 description: "A strategic guide to choosing a game engine in 2026 and analyzing the business risks associated with each."
 image: /assets/img/posts/2025-11-08-a-strategic-guide-to-game-engines-in-2026.jpg
