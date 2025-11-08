@@ -1,18 +1,18 @@
 ---
 layout: post
-title: 'A Strategic Guide to Game Engines in 2025'
+title: 'A Strategic Guide to Game Engines in 2026'
 date: 2025-11-08 19:14 +0700
 categories: [Game Development]
 tags: [game engines, unreal engine, godot, monogame, unity]
-description: "A strategic guide to choosing a game engine in 2025 and analyzing the business risks associated with each."
-image: /assets/img/posts/2025-11-08-a-strategic-guide-to-game-engines-in-2025.jpg
+description: "A strategic guide to choosing a game engine in 2026 and analyzing the business risks associated with each."
+image: /assets/img/posts/2025-11-08-a-strategic-guide-to-game-engines-in-2026.jpg
 ---
 
 ## Why Your Engine Choice is a Business Plan, Not Just a Tool
 
 Choosing your first (or next) game engine is one of the most critical decisions you'll make as a developer. It’s easy to get lost in a sea of feature comparisons—2D vs. 3D, performance benchmarks, and a constantly shifting landscape of new tools.
 
-But a game engine is more than just a tool. It's a long-term commitment. In 2025, choosing an engine isn't just a _technical_ decision; it's a _strategic_ one that impacts your learning path, your career, and your entire business model. The platform risk—the business decisions of the company that owns your engine—is now just as important as the features.
+But a game engine is more than just a tool. It's a long-term commitment. In 2026, choosing an engine isn't just a _technical_ decision; it's a _strategic_ one that impacts your learning path, your career, and your entire business model. The platform risk—the business decisions of the company that owns your engine—is now just as important as the features.
 
 After extensive analysis, I’ve moved past the "which engine is _best_?" debate. Instead, I've landed on a "personal toolkit" of three specific tools, each chosen for a distinct purpose.
 
@@ -41,7 +41,7 @@ The answer is **platform risk**.
 
 In 2023, Unity, a publicly traded company, announced a "Runtime Fee" policy that would charge developers _per install_ after certain thresholds were met. This move was retroactive and was seen by the community as an "astonishing scumbag move" and an "unthinkably hostile" change to the terms of service.
 
-The backlash was so immediate and universal that Unity was forced to walk it back. Their new model (effective in 2025) is more reasonable, removing the retroactive fees and offering a 2.5% revenue share option.
+The backlash was so immediate and universal that Unity was forced to walk it back. Their new model is more reasonable, removing the retroactive fees and offering a 2.5% revenue share option.
 
 But the "damage is done".
 
