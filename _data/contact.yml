@@ -19,6 +19,10 @@
 #   icon: "fa-brands fa-facebook"
 #   url: "https://www.facebook.com/drekunia/" # Fill with your Facebook homepage
 
+- type: linkedin
+  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+  url: "https://www.linkedin.com/in/drekunia/" # Fill with your Linkedin homepage
+
 - type: youtube
   icon: "fa-brands fa-youtube"
   url: "https://www.youtube.com/@drekunia" # Fill with your Youtube channel link
@@ -30,10 +34,6 @@
 # - type: discord
 #   icon: "fab fa-discord"
 #   url: "https://discord.gg/6QVxjGVhr4"
-
-- type: linkedin
-  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
-  url: "https://www.linkedin.com/in/drekunia/" # Fill with your Linkedin homepage
 
 - type: github
   icon: "fab fa-github"
