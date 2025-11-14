@@ -11,13 +11,13 @@
   icon: "fab fa-mastodon" # icons powered by <https://fontawesome.com/>
   url: "https://mastodon.gamedev.place/@drekunia" # Fill with your Mastodon account page, rel="me" will be applied for verification
 
-- type: threads
-  icon: "fa-brands fa-threads"
-  url: "https://www.threads.com/@drekunia" # Fill with your Threads profile link
+# - type: threads
+#   icon: "fa-brands fa-threads"
+#   url: "https://www.threads.com/@drekunia" # Fill with your Threads profile link
 
-- type: facebook
-  icon: "fa-brands fa-facebook"
-  url: "https://www.facebook.com/drekunia/" # Fill with your Facebook homepage
+# - type: facebook
+#   icon: "fa-brands fa-facebook"
+#   url: "https://www.facebook.com/drekunia/" # Fill with your Facebook homepage
 
 - type: youtube
   icon: "fa-brands fa-youtube"
@@ -27,9 +27,9 @@
 #   icon: "fa-brands fa-reddit"
 #   url: "https://www.reddit.com/user/kadogama/" # Fill with your Reddit profile link
 
-- type: discord
-  icon: "fab fa-discord"
-  url: "https://discord.gg/6QVxjGVhr4"
+# - type: discord
+#   icon: "fab fa-discord"
+#   url: "https://discord.gg/6QVxjGVhr4"
 
 - type: linkedin
   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
@@ -54,10 +54,10 @@
   icon: "fas fa-rss"
   # noblank: true
 
-- type: website
-  icon: "fas fa-globe"
-  url: "https://drekunia.github.io" # Fill with your personal website homepage
-  noblank: true # open link in current tab
+# - type: website
+#   icon: "fas fa-globe"
+#   url: "https://drekunia.github.io" # Fill with your personal website homepage
+#   noblank: true # open link in current tab
 
 # Uncomment and complete the url below to enable more contact options
 #
