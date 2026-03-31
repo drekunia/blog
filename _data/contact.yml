@@ -39,8 +39,12 @@
 #   icon: "fab fa-discord"
 #   url: "https://discord.gg/6QVxjGVhr4"
 
-- type: github
-  icon: "fab fa-github"
+# - type: github
+#   icon: "fab fa-github"
+
+- type: codeberg
+  icon: fa-brands fa-forgejo
+  url: "https://codeberg.org/drekunia"
 
 - type: itch.io
   icon: "fa-brands fa-itch-io"
@@ -57,7 +61,6 @@
 - type: rss
   icon: "fas fa-rss"
   # noblank: true
-
 # - type: website
 #   icon: "fas fa-globe"
 #   url: "https://drekunia.github.io" # Fill with your personal website homepage
