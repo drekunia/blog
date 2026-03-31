@@ -1,0 +1,26 @@
+steps:
+  build_and_deploy:
+    image: ruby:latest
+    environment:
+      CB_TOKEN:
+        from_secret: cb_token
+    commands:
+      # 1. Install dependencies for gems with native extensions
+      - apt-get update && apt-get install -y build-essential git
+      
+      # 2. Update environment to match Chirpy's needs
+      - gem update --system
+      - gem install bundler
+      
+      # 3. Build the site (Chirpy sometimes needs production tags)
+      - bundle install
+      - JEKYLL_ENV=production bundle exec jekyll build
+      
+      # 4. Deploy to the 'pages' branch
+      - cd _site
+      - git init
+      - git config user.name "Woodpecker"
+      - git config user.email "username@noreply.codeberg.org"
+      - git add .
+      - git commit -m "Deploy from CI"
+      - git push -f https://drekunia:$${CB_TOKEN}@codeberg.org/drekunia/blog.git master:pages
