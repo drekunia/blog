@@ -1,6 +1,6 @@
 steps:
   build_and_deploy:
-    image: ruby:3.2
+    image: ruby:3.3
     environment:
       CB_TOKEN:
         from_secret: cb_token
