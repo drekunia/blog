@@ -8,11 +8,11 @@ steps:
       # 1. Install dependencies for gems with native extensions
       - apt-get update && apt-get install -y build-essential git
       
-      # 2. Update environment to match Chirpy's needs
+      # 2. Update environment
       - gem update --system
       - gem install bundler
       
-      # 3. Build the site (Chirpy sometimes needs production tags)
+      # 3. Build the site
       - bundle install
       - JEKYLL_ENV=production bundle exec jekyll build
       
