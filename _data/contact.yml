@@ -4,12 +4,12 @@
   icon: "fa-brands fa-instagram"
   url: "https://www.instagram.com/drekunia/" # Fill with your Instagram homepage
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
-
 - type: youtube
   icon: "fa-brands fa-youtube"
   url: "https://www.youtube.com/@drekunia" # Fill with your Youtube channel link
+
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
 
 - type: bluesky
   icon: "fa-brands fa-bluesky"
@@ -54,13 +54,18 @@
   icon: "fa-brands fa-artstation"
   url: "https://www.artstation.com/drekunia" # Fill with your ArtStation homepage
 
+- type: bandcamp
+  icon: "fa-brands fa-bandcamp"
+  url: "https://drekunia.bandcamp.com/"
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  # noblank: true
+# - type: rss
+#   icon: "fas fa-rss"
+#   # noblank: true
+
 # - type: website
 #   icon: "fas fa-globe"
 #   url: "https://drekunia.github.io" # Fill with your personal website homepage
