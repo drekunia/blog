@@ -8,6 +8,17 @@
   icon: "fa-brands fa-youtube"
   url: "https://www.youtube.com/@drekunia" # Fill with your Youtube channel link
 
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
+
+- type: bluesky
+  icon: "fa-brands fa-bluesky"
+  url: "https://bsky.app/profile/drekunia.bsky.social" # Fill with your Bluesky profile link
+
+- type: mastodon
+  icon: "fab fa-mastodon" # icons powered by <https://fontawesome.com/>
+  url: "https://mastodon.gamedev.place/@drekunia" # Fill with your Mastodon account page, rel="me" will be applied for verification
+
 - type: itch.io
   icon: "fa-brands fa-itch-io"
   url: "https://drekunia.itch.io/" # Fill with your Itch.io homepage
@@ -20,24 +31,13 @@
   icon: "fa-brands fa-bandcamp"
   url: "https://drekunia.bandcamp.com/"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: threads
+#   icon: "fa-brands fa-threads"
+#   url: "https://www.threads.com/@drekunia" # Fill with your Threads profile link
 
-- type: bluesky
-  icon: "fa-brands fa-bluesky"
-  url: "https://bsky.app/profile/drekunia.bsky.social" # Fill with your Bluesky profile link
-
-- type: mastodon
-  icon: "fab fa-mastodon" # icons powered by <https://fontawesome.com/>
-  url: "https://mastodon.gamedev.place/@drekunia" # Fill with your Mastodon account page, rel="me" will be applied for verification
-
-- type: threads
-  icon: "fa-brands fa-threads"
-  url: "https://www.threads.com/@drekunia" # Fill with your Threads profile link
-
-- type: facebook
-  icon: "fa-brands fa-facebook"
-  url: "https://www.facebook.com/drekunia/" # Fill with your Facebook homepage
+# - type: facebook
+#   icon: "fa-brands fa-facebook"
+#   url: "https://www.facebook.com/drekunia/" # Fill with your Facebook homepage
 
 # - type: reddit
 #   icon: "fa-brands fa-reddit"
@@ -47,24 +47,24 @@
 #   icon: "fab fa-discord"
 #   url: "https://discord.gg/6QVxjGVhr4"
 
+# - type: linkedin
+#   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+#   url: "https://www.linkedin.com/in/drekunia/" # Fill with your Linkedin homepage
+  
 - type: github
   icon: "fab fa-github"
 
-- type: codeberg
-  icon: fa-brands fa-forgejo
-  url: "https://codeberg.org/drekunia"
-
-- type: linkedin
-  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
-  url: "https://www.linkedin.com/in/drekunia/" # Fill with your Linkedin homepage
+# - type: codeberg
+#   icon: fa-brands fa-forgejo
+#   url: "https://codeberg.org/drekunia"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  # noblank: true
+# - type: rss
+#   icon: "fas fa-rss"
+#   # noblank: true
 
 # - type: website
 #   icon: "fas fa-globe"
