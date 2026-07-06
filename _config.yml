@@ -38,10 +38,10 @@ social:
   email: drekunia@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://drekunia.github.io
-    - https://codeberg.org/drekunia # change to your GitHub homepage
+    - https://drekunia.github.io # change to your GitHub homepage
     - https://twitter.com/drekunia # change to your Twitter homepage
     # Uncomment below to add more social links
+    - https://codeberg.org/drekunia
     - https://bsky.app/profile/drekunia.bsky.social
     - https://mastodon.gamedev.place/@drekunia
     - https://www.linkedin.com/in/drekunia
