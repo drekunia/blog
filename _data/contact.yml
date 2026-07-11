@@ -27,9 +27,9 @@
   icon: "fa-brands fa-artstation"
   url: "https://www.artstation.com/drekunia" # Fill with your ArtStation homepage
 
-- type: bandcamp
+- type: subvert
   icon: "fa-brands fa-bandcamp"
-  url: "https://drekunia.bandcamp.com/"
+  url: "https://www.subvert.fm/drekunia"
 
 # - type: threads
 #   icon: "fa-brands fa-threads"
@@ -50,7 +50,7 @@
 # - type: linkedin
 #   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
 #   url: "https://www.linkedin.com/in/drekunia/" # Fill with your Linkedin homepage
-  
+
 - type: github
   icon: "fab fa-github"
 
